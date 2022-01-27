@@ -132,4 +132,9 @@ footer {
   display: block;
   margin: 45px auto 0;
 }
+
+.startBtn {
+  width: 250px;
+  font-size: 1.3rem;
+}
 /*# sourceMappingURL=style.css.map */

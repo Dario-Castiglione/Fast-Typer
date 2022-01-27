@@ -32,6 +32,7 @@ function gameStop() {
     timeText.innerText = `00:${time}`;
     scoreText.innerText = score;
     inputText.value = ""
+    word.innerText = "Premi start";
 }
 function startCounter() {
     timeText.innerText = `00:${time}`
