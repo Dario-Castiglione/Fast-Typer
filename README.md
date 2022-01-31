@@ -1,5 +1,5 @@
 # Fast-Typer
 
-<a href="dario-castiglione.github.io/fast-typer/">Preview</a>
+<a href="https://dario-castiglione.github.io/Fast-Typer/">Preview</a>
 
 TYPE FAST!
